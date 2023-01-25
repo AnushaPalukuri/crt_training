@@ -1,0 +1,4 @@
+#tuple methods
+t1=(1,2,3,"abc",3,2,3)
+res=t1.count(3)
+print(res)

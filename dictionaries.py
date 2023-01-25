@@ -1,0 +1,9 @@
+d={}
+d.update({"anusha":485})
+d.update({"amrutha":489})
+d.update({"sharmila":487})
+d.update({"sana":481})
+print(d["anusha"])
+print(d["sana"])
+print(d.get("amrutha"))
+print(d["sharmila"])
